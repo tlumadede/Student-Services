@@ -1,0 +1,82 @@
+[
+  {
+    "email": "wkamau@college.ac.ke",
+    "phone": "0711000001",
+    "last_name": "Kamau",
+    "first_name": "Wanjiru",
+    "lecturer_id": 1,
+    "department_id": 1
+  },
+  {
+    "email": "oowino@college.ac.ke",
+    "phone": "0711000002",
+    "last_name": "Owino",
+    "first_name": "Otieno",
+    "lecturer_id": 2,
+    "department_id": 1
+  },
+  {
+    "email": "mkioko@college.ac.ke",
+    "phone": "0711000003",
+    "last_name": "Kioko",
+    "first_name": "Mutua",
+    "lecturer_id": 3,
+    "department_id": 2
+  },
+  {
+    "email": "aodhiambo@college.ac.ke",
+    "phone": "0711000004",
+    "last_name": "Odhiambo",
+    "first_name": "Achieng",
+    "lecturer_id": 4,
+    "department_id": 2
+  },
+  {
+    "email": "kruto@college.ac.ke",
+    "phone": "0711000005",
+    "last_name": "Ruto",
+    "first_name": "Kiprop",
+    "lecturer_id": 5,
+    "department_id": 3
+  },
+  {
+    "email": "nwafula@college.ac.ke",
+    "phone": "0711000006",
+    "last_name": "Wafula",
+    "first_name": "Naliaka",
+    "lecturer_id": 6,
+    "department_id": 3
+  },
+  {
+    "email": "ckorir@college.ac.ke",
+    "phone": "0711000007",
+    "last_name": "Korir",
+    "first_name": "Chebet",
+    "lecturer_id": 7,
+    "department_id": 4
+  },
+  {
+    "email": "wnjoroge@college.ac.ke",
+    "phone": "0711000008",
+    "last_name": "Njoroge",
+    "first_name": "Wambui",
+    "lecturer_id": 8,
+    "department_id": 4
+  },
+  {
+    "email": "hali@college.ac.ke",
+    "phone": "0711000009",
+    "last_name": "Ali",
+    "first_name": "Hassan",
+    "lecturer_id": 9,
+    "department_id": 5
+  },
+  {
+    "email": "aomolo@college.ac.ke",
+    "phone": "0711000010",
+    "last_name": "Omolo",
+    "first_name": "Atieno",
+    "lecturer_id": 10,
+    "department_id": 5
+  }
+]

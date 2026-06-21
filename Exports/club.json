@@ -1,0 +1,51 @@
+[
+  {
+    "club_id": 1,
+    "club_name": "Debate Club",
+    "patron_id": 1,
+    "founded_year": 2018,
+    "chairperson_id": 1
+  },
+  {
+    "club_id": 2,
+    "club_name": "Tech Innovators",
+    "patron_id": 2,
+    "founded_year": 2020,
+    "chairperson_id": 3
+  },
+  {
+    "club_id": 3,
+    "club_name": "Drama Club",
+    "patron_id": 3,
+    "founded_year": 2015,
+    "chairperson_id": 4
+  },
+  {
+    "club_id": 4,
+    "club_name": "Football Club",
+    "patron_id": 5,
+    "founded_year": 2010,
+    "chairperson_id": 7
+  },
+  {
+    "club_id": 5,
+    "club_name": "Christian Union",
+    "patron_id": 9,
+    "founded_year": 2012,
+    "chairperson_id": 9
+  },
+  {
+    "club_id": 6,
+    "club_name": "Photography Club",
+    "patron_id": 6,
+    "founded_year": 2021,
+    "chairperson_id": null
+  },
+  {
+    "club_id": 7,
+    "club_name": "Chess Club",
+    "patron_id": 7,
+    "founded_year": 2022,
+    "chairperson_id": null
+  }
+]

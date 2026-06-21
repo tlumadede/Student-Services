@@ -1,0 +1,110 @@
+[
+  {
+    "term": "Term 1",
+    "amount_due": 0.00,
+    "payment_id": 1,
+    "student_id": 1,
+    "amount_paid": 45000.00,
+    "payment_date": "2025-01-15",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 15000.00,
+    "payment_id": 2,
+    "student_id": 2,
+    "amount_paid": 30000.00,
+    "payment_date": "2025-01-20",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 5000.00,
+    "payment_id": 3,
+    "student_id": 3,
+    "amount_paid": 40000.00,
+    "payment_date": "2025-01-18",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 0.00,
+    "payment_id": 4,
+    "student_id": 4,
+    "amount_paid": 50000.00,
+    "payment_date": "2025-01-10",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 25000.00,
+    "payment_id": 5,
+    "student_id": 5,
+    "amount_paid": 20000.00,
+    "payment_date": "2025-01-22",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 0.00,
+    "payment_id": 6,
+    "student_id": 6,
+    "amount_paid": 45000.00,
+    "payment_date": "2025-01-12",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 12000.00,
+    "payment_id": 7,
+    "student_id": 7,
+    "amount_paid": 35000.00,
+    "payment_date": "2025-01-25",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 0.00,
+    "payment_id": 8,
+    "student_id": 8,
+    "amount_paid": 42000.00,
+    "payment_date": "2025-01-14",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 11000.00,
+    "payment_id": 9,
+    "student_id": 9,
+    "amount_paid": 38000.00,
+    "payment_date": "2025-01-19",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 0.00,
+    "payment_id": 10,
+    "student_id": 10,
+    "amount_paid": 46000.00,
+    "payment_date": "2025-01-11",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 1",
+    "amount_due": 30000.00,
+    "payment_id": 11,
+    "student_id": 11,
+    "amount_paid": 15000.00,
+    "payment_date": "2025-02-01",
+    "academic_year": 2025
+  },
+  {
+    "term": "Term 2",
+    "amount_due": 0.00,
+    "payment_id": 12,
+    "student_id": 1,
+    "amount_paid": 45000.00,
+    "payment_date": "2025-05-15",
+    "academic_year": 2025
+  }
+]

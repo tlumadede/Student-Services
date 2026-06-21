@@ -1,0 +1,62 @@
+[
+  {
+    "class_id": 1,
+    "course_id": 1,
+    "class_name": "CS Year 1A",
+    "year_of_study": 1
+  },
+  {
+    "class_id": 2,
+    "course_id": 1,
+    "class_name": "CS Year 2A",
+    "year_of_study": 2
+  },
+  {
+    "class_id": 3,
+    "course_id": 2,
+    "class_name": "IT Year 1A",
+    "year_of_study": 1
+  },
+  {
+    "class_id": 4,
+    "course_id": 3,
+    "class_name": "BCOM Year 1A",
+    "year_of_study": 1
+  },
+  {
+    "class_id": 5,
+    "course_id": 3,
+    "class_name": "BCOM Year 2A",
+    "year_of_study": 2
+  },
+  {
+    "class_id": 6,
+    "course_id": 4,
+    "class_name": "PROC Year 1A",
+    "year_of_study": 1
+  },
+  {
+    "class_id": 7,
+    "course_id": 5,
+    "class_name": "CIVIL Year 1A",
+    "year_of_study": 1
+  },
+  {
+    "class_id": 8,
+    "course_id": 5,
+    "class_name": "CIVIL Year 3A",
+    "year_of_study": 3
+  },
+  {
+    "class_id": 9,
+    "course_id": 7,
+    "class_name": "MATH Year 1A",
+    "year_of_study": 1
+  },
+  {
+    "class_id": 10,
+    "course_id": 9,
+    "class_name": "HOSP Year 1A",
+    "year_of_study": 1
+  }
+]

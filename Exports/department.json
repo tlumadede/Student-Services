@@ -1,0 +1,32 @@
+[
+  {
+    "hod_id": 1,
+    "dept_name": "Computer Science",
+    "department_id": 1,
+    "block_location": "Block A"
+  },
+  {
+    "hod_id": 3,
+    "dept_name": "Business Administration",
+    "department_id": 2,
+    "block_location": "Block B"
+  },
+  {
+    "hod_id": 5,
+    "dept_name": "Civil Engineering",
+    "department_id": 3,
+    "block_location": "Block C"
+  },
+  {
+    "hod_id": 7,
+    "dept_name": "Mathematics & Statistics",
+    "department_id": 4,
+    "block_location": "Block A"
+  },
+  {
+    "hod_id": 9,
+    "dept_name": "Hospitality Management",
+    "department_id": 5,
+    "block_location": "Block D"
+  }
+]

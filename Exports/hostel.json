@@ -1,0 +1,17 @@
+[
+  {
+    "capacity": 200,
+    "hostel_id": 1,
+    "hostel_name": "Hostel A"
+  },
+  {
+    "capacity": 150,
+    "hostel_id": 2,
+    "hostel_name": "Hostel B"
+  },
+  {
+    "capacity": 180,
+    "hostel_id": 3,
+    "hostel_name": "Hostel C"
+  }
+]

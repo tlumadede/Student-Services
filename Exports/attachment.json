@@ -1,0 +1,82 @@
+[
+  {
+    "status": "ongoing",
+    "end_date": "2025-08-31",
+    "firm_name": "Safaricom PLC",
+    "start_date": "2025-05-01",
+    "student_id": 5,
+    "attachment_id": 1
+  },
+  {
+    "status": "ongoing",
+    "end_date": "2025-08-31",
+    "firm_name": "Kenya Pipeline Co.",
+    "start_date": "2025-05-01",
+    "student_id": 8,
+    "attachment_id": 2
+  },
+  {
+    "status": "completed",
+    "end_date": "2024-08-31",
+    "firm_name": "KCB Bank",
+    "start_date": "2024-05-01",
+    "student_id": 1,
+    "attachment_id": 3
+  },
+  {
+    "status": "completed",
+    "end_date": "2024-08-31",
+    "firm_name": "Deloitte East Africa",
+    "start_date": "2024-05-01",
+    "student_id": 4,
+    "attachment_id": 4
+  },
+  {
+    "status": "completed",
+    "end_date": "2024-04-30",
+    "firm_name": "China Wu Yi (Kenya)",
+    "start_date": "2024-01-01",
+    "student_id": 7,
+    "attachment_id": 5
+  },
+  {
+    "status": "completed",
+    "end_date": "2024-12-31",
+    "firm_name": "KEMRI",
+    "start_date": "2024-09-01",
+    "student_id": 9,
+    "attachment_id": 6
+  },
+  {
+    "status": "completed",
+    "end_date": "2025-04-30",
+    "firm_name": "Equity Bank",
+    "start_date": "2025-01-01",
+    "student_id": 2,
+    "attachment_id": 7
+  },
+  {
+    "status": "completed",
+    "end_date": "2025-04-30",
+    "firm_name": "Sarova Hotels",
+    "start_date": "2025-01-01",
+    "student_id": 10,
+    "attachment_id": 8
+  },
+  {
+    "status": "ongoing",
+    "end_date": "2025-08-31",
+    "firm_name": "Microsoft ADC",
+    "start_date": "2025-05-01",
+    "student_id": 3,
+    "attachment_id": 9
+  },
+  {
+    "status": "completed",
+    "end_date": "2024-12-31",
+    "firm_name": "Jumia Kenya",
+    "start_date": "2024-09-01",
+    "student_id": 11,
+    "attachment_id": 10
+  }
+]

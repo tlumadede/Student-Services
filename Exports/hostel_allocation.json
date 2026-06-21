@@ -1,0 +1,72 @@
+[
+  {
+    "term": "Term 1",
+    "room_id": 1,
+    "student_id": 1,
+    "academic_year": 2025,
+    "allocation_id": 1
+  },
+  {
+    "term": "Term 1",
+    "room_id": 1,
+    "student_id": 2,
+    "academic_year": 2025,
+    "allocation_id": 2
+  },
+  {
+    "term": "Term 1",
+    "room_id": 4,
+    "student_id": 3,
+    "academic_year": 2025,
+    "allocation_id": 3
+  },
+  {
+    "term": "Term 1",
+    "room_id": 4,
+    "student_id": 4,
+    "academic_year": 2025,
+    "allocation_id": 4
+  },
+  {
+    "term": "Term 1",
+    "room_id": 7,
+    "student_id": 6,
+    "academic_year": 2025,
+    "allocation_id": 5
+  },
+  {
+    "term": "Term 1",
+    "room_id": 2,
+    "student_id": 9,
+    "academic_year": 2025,
+    "allocation_id": 6
+  },
+  {
+    "term": "Term 1",
+    "room_id": 8,
+    "student_id": 10,
+    "academic_year": 2025,
+    "allocation_id": 7
+  },
+  {
+    "term": "Term 1",
+    "room_id": 1,
+    "student_id": 11,
+    "academic_year": 2025,
+    "allocation_id": 8
+  },
+  {
+    "term": "Term 2",
+    "room_id": 1,
+    "student_id": 1,
+    "academic_year": 2025,
+    "allocation_id": 9
+  },
+  {
+    "term": "Term 2",
+    "room_id": 4,
+    "student_id": 3,
+    "academic_year": 2025,
+    "allocation_id": 10
+  }
+]

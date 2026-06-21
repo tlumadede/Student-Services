@@ -1,0 +1,62 @@
+[
+  {
+    "room_id": 1,
+    "capacity": 4,
+    "hostel_id": 1,
+    "room_number": "A-101"
+  },
+  {
+    "room_id": 2,
+    "capacity": 4,
+    "hostel_id": 1,
+    "room_number": "A-102"
+  },
+  {
+    "room_id": 3,
+    "capacity": 4,
+    "hostel_id": 1,
+    "room_number": "A-103"
+  },
+  {
+    "room_id": 4,
+    "capacity": 4,
+    "hostel_id": 2,
+    "room_number": "B-201"
+  },
+  {
+    "room_id": 5,
+    "capacity": 4,
+    "hostel_id": 2,
+    "room_number": "B-202"
+  },
+  {
+    "room_id": 6,
+    "capacity": 4,
+    "hostel_id": 2,
+    "room_number": "B-203"
+  },
+  {
+    "room_id": 7,
+    "capacity": 4,
+    "hostel_id": 3,
+    "room_number": "C-301"
+  },
+  {
+    "room_id": 8,
+    "capacity": 4,
+    "hostel_id": 3,
+    "room_number": "C-302"
+  },
+  {
+    "room_id": 9,
+    "capacity": 4,
+    "hostel_id": 3,
+    "room_number": "C-303"
+  },
+  {
+    "room_id": 10,
+    "capacity": 4,
+    "hostel_id": 3,
+    "room_number": "C-304"
+  }
+]

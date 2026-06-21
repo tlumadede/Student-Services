@@ -1,0 +1,72 @@
+[
+  {
+    "course_id": 1,
+    "subject_id": 1,
+    "lecturer_id": 1,
+    "credit_hours": 3,
+    "subject_name": "Database Systems"
+  },
+  {
+    "course_id": 1,
+    "subject_id": 2,
+    "lecturer_id": 2,
+    "credit_hours": 3,
+    "subject_name": "Data Structures"
+  },
+  {
+    "course_id": 2,
+    "subject_id": 3,
+    "lecturer_id": 2,
+    "credit_hours": 3,
+    "subject_name": "Web Development"
+  },
+  {
+    "course_id": 3,
+    "subject_id": 4,
+    "lecturer_id": 3,
+    "credit_hours": 3,
+    "subject_name": "Principles of Marketing"
+  },
+  {
+    "course_id": 3,
+    "subject_id": 5,
+    "lecturer_id": 4,
+    "credit_hours": 3,
+    "subject_name": "Financial Accounting"
+  },
+  {
+    "course_id": 4,
+    "subject_id": 6,
+    "lecturer_id": 4,
+    "credit_hours": 2,
+    "subject_name": "Procurement Law"
+  },
+  {
+    "course_id": 5,
+    "subject_id": 7,
+    "lecturer_id": 5,
+    "credit_hours": 4,
+    "subject_name": "Structural Analysis"
+  },
+  {
+    "course_id": 5,
+    "subject_id": 8,
+    "lecturer_id": 6,
+    "credit_hours": 3,
+    "subject_name": "Surveying"
+  },
+  {
+    "course_id": 7,
+    "subject_id": 9,
+    "lecturer_id": 7,
+    "credit_hours": 3,
+    "subject_name": "Calculus II"
+  },
+  {
+    "course_id": 9,
+    "subject_id": 10,
+    "lecturer_id": 9,
+    "credit_hours": 3,
+    "subject_name": "Food Production"
+  }
+]

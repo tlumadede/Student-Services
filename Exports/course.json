@@ -1,0 +1,62 @@
+[
+  {
+    "course_id": 1,
+    "course_name": "BSc Computer Science",
+    "department_id": 1,
+    "duration_years": 4
+  },
+  {
+    "course_id": 2,
+    "course_name": "Diploma in Information Technology",
+    "department_id": 1,
+    "duration_years": 3
+  },
+  {
+    "course_id": 3,
+    "course_name": "BCom Business Administration",
+    "department_id": 2,
+    "duration_years": 4
+  },
+  {
+    "course_id": 4,
+    "course_name": "Diploma in Procurement",
+    "department_id": 2,
+    "duration_years": 3
+  },
+  {
+    "course_id": 5,
+    "course_name": "BSc Civil Engineering",
+    "department_id": 3,
+    "duration_years": 5
+  },
+  {
+    "course_id": 6,
+    "course_name": "Diploma in Building Technology",
+    "department_id": 3,
+    "duration_years": 3
+  },
+  {
+    "course_id": 7,
+    "course_name": "BSc Mathematics",
+    "department_id": 4,
+    "duration_years": 4
+  },
+  {
+    "course_id": 8,
+    "course_name": "BSc Actuarial Science",
+    "department_id": 4,
+    "duration_years": 4
+  },
+  {
+    "course_id": 9,
+    "course_name": "Diploma in Hospitality Management",
+    "department_id": 5,
+    "duration_years": 3
+  },
+  {
+    "course_id": 10,
+    "course_name": "Certificate in Food & Beverage",
+    "department_id": 5,
+    "duration_years": 1
+  }
+]
